@@ -33,3 +33,5 @@ disqus_shortname: 'avishekkhan'
 
 # Build settings
 markdown: kramdown
+
+include: [".well-known"]
