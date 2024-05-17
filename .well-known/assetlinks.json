@@ -1,38 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.avishek.testapp.dev",
-      "sha256_cert_fingerprints": [
-        "29:F2:D7:58:BB:F7:B1:EB:16:29:1E:C7:73:66:A9:9A:3B:80:F0:8D:9F:73:92:16:46:BB:AD:A7:47:3D:F2:7A"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.avishek.testapp.staging",
-      "sha256_cert_fingerprints": [
-        "F9:05:63:30:7E:77:71:18:FF:48:6A:C5:BB:95:87:07:4E:37:D6:29:61:39:59:19:AF:DA:DC:45:3D:4F:21:87"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.avishek.testapp",
-      "sha256_cert_fingerprints": [
-        "19:01:41:9D:C7:9E:13:F1:03:B9:43:A1:33:B9:56:F2:39:6E:F3:AC:D8:F1:C8:F9:4A:77:1D:6C:CE:2A:E9:8B"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jollibee.mobile.dev",
+    "sha256_cert_fingerprints":
+    ["C0:E4:83:83:F0:D6:81:76:E6:F8:25:B9:56:98:E4:46:5E:13:C2:F7:C5:66:EE:8E:D1:DF:5F:48:30:86:9B:68"]
   }
-]
+}]
