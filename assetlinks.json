@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jollibee.mobile.dev",
+    "sha256_cert_fingerprints":
+    ["C0:E4:83:83:F0:D6:81:76:E6:F8:25:B9:56:98:E4:46:5E:13:C2:F7:C5:66:EE:8E:D1:DF:5F:48:30:86:9B:68"]
+  }
+}]
